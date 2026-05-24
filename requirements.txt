@@ -1,0 +1,7 @@
+# requirements.txt — Dependensi Bot WhatsApp Auto Deploy Vercel
+
+# WhatsApp client (wrapper Go whatsmeow)
+neonize>=0.1.0
+
+# HTTP requests untuk Vercel API
+requests>=2.31.0
